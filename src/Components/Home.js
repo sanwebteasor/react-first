@@ -7,7 +7,7 @@ function Home(){
         <div>
             <img src="https://www.pngmart.com/files/7/Cart-PNG-Clipart.png" style={{width:"100px",marginRight: "0px"}} />
         </div>
-        <h2>Home componentssss</h2>
+        <h2>Home componentssss  hhhh</h2>
         
         <div className="cart-wrapper">
             <div className="img-wrapper item">
