@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <h3>App component</h3>
-    <HomeContainer />
+    <HomeContainer type="test"/>
     </>
   );
 }
